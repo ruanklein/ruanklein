@@ -18,24 +18,15 @@
 
 Three ideas guide how I design and build software:
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {
-  'primaryColor': '#0d1117',
-  'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#30363d',
-  'lineColor': '#0d1117',
-  'fontSize': '14px',
-  'fontFamily': 'Inter, sans-serif',
-  'edgeLabelBackground':'#0d1117'
-}}}%%
-graph TD
-    A["<b>KISS</b><br/>Simplicity is the foundation<br/>of maintainable systems"]:::kiss
-    B["<b>DRY</b><br/>Each piece of knowledge<br/>should exist in a single, clear form"]:::dry
-    C["<b>YAGNI</b><br/>Build only what is necessary,<br/>when it’s necessary"]:::yagni
-
-    A --> B
-    A --> C
-```
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>KISS</b><br/>Simplicity is the foundation of maintainable systems</td>
+  </tr>
+  <tr>
+    <td align="center"><b>DRY</b><br/>Each piece of knowledge should exist in a single, clear form</td>
+    <td align="center"><b>YAGNI</b><br/>Build only what is necessary, when it’s necessary</td>
+  </tr>
+</table>
 
 In other words, I focus on systems that age well: minimal, intentional, and built to endure.
 
