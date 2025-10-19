@@ -2,9 +2,8 @@
 
 <img src="l.png" alt="Ruan Felisbino Logo" width="100" style="margin-bottom:-10px;"/>
 
-<h1 style="margin-top:10px;margin-bottom:4px;">Ruan Felisbino</h1>
-<br/>
-<h3 style="margin-top:0;margin-bottom:8px;">Software Engineer</h3>
+<h3 style="margin-top:10px;margin-bottom:4px">Ruan Felisbino</h3>
+<h4 style="margin-top:0;margin-bottom:8px;">Software Engineer</h4>
 
 <p align="center">
 <sub><b>Local-first architecture</b> | <b>Developer Tooling</b> | <b>Platform Automation</b></sub>
