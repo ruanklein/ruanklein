@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="l.png" alt="Ruan Felisbino Logo" width="100" style="margin-bottom:-10px;"/>
+<img src="l.png" alt="Ruan Felisbino Logo" width="100"/>
 
 <h3 style="margin-top:10px;margin-bottom:4px">Ruan Felisbino</h3>
-<h4 style="margin-top:0;margin-bottom:8px;">Software Engineer</h4>
+<span style="display:block; font-size:18px; font-weight:500; margin:0;">Software Engineer</span>
 
 <p align="center">
 <sub><b>Local-first architecture</b> | <b>Developer Tooling</b> | <b>Platform Automation</b></sub>
