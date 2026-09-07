@@ -4,10 +4,7 @@
 
 # Ruan Felisbino
 
-**Software Engineer**
-
-<sub>Local-first architecture · Developer tooling · Platform automation</sub>
-
+**Local-first architecture · Developer tooling · Platform automation**
 
 </div>
 
