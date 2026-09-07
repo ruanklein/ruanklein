@@ -11,9 +11,7 @@
 
 </div>
 
-## Working with
-
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="18" height="18" alt="Go" /> <code>Go</code> ·
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="18" height="18" alt="Shell" /> <code>Shell</code> ·
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="18" height="18" alt="TypeScript" /> <code>TypeScript</code> ·
@@ -29,6 +27,8 @@
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruanklein&theme=github" alt="Languages used in commits" />
 
 </div>
+
+---
 
 <div align="center" style="margin-top: 20px">
   <a href="https://ruan.sh">
